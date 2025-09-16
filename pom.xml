@@ -80,6 +80,7 @@
   </ciManagement>
 
   <properties>
+    <sonar.organization>spyd3r98</sonar.organization>
     <license.title>SonarQube Java</license.title>
 
     <jdk.min.version>17</jdk.min.version>
